@@ -1,2 +1,5 @@
 base/src/.DS_Store
 base/.DS_Store
+
+# Office documents
+*.docx
